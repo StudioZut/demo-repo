@@ -16,3 +16,6 @@ new file mode 100644
 index 0000000..7b3f37a
 Binary files /dev/null and b/logo.png differ
 ```
+
+And the 'network' visualizer https://github.com/StudioZut/demo-repo/network
+
