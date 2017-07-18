@@ -1,5 +1,5 @@
 # demo-repo
-A test repository for demonstrating Git basics (cloning, commits, branches, status, push/pull, diff, pull requests)
+A test repository for demonstrating a few Git basics (cloning, commits, branches, status, push/pull, diff, pull requests)
 
 And a few great things like: git show
 
